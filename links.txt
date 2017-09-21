@@ -1,0 +1,6 @@
+links.txt
+Created Thu Sep 21 08:32:13 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Battery related links
